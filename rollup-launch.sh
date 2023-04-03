@@ -17,7 +17,7 @@ $RBIN gentx $KEY_NAME $STAKING_AMOUNT --chain-id $CHAIN_ID --keyring-backend tes
 $RBIN collect-gentxs
 $RBIN tendermint unsafe-reset-all
 
-sudo tee <<EOF >/dev/null /etc/systemd/system/celestia-amsd.service
+sudo tee <<EOF >/dev/null /etc/systemd/system/celestia-rollupd.service
 [Unit]
 Description=celestia-rollup
 After=network-online.target
@@ -34,5 +34,5 @@ WantedBy=multi-user.target
 EOF
 
 sudo systemctl daemon-reload
-sudo systemctl enable celestia-amsd.service
-sudo systemctl restart celestia-amsd.service
+sudo systemctl enable celestia-rollupd.service
+sudo systemctl restart celestia-rollupd.service
