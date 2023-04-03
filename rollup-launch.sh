@@ -11,7 +11,7 @@ DA_BLOCK_HEIGHT=$(curl ${RPC}/block | jq -r '.result.block.header.height')
 echo $DA_BLOCK_HEIGHT
 
 
-$RBIN keys add $KEY_NAME --keyring-backend test >> $HOME/key-seed.txt
+$RBIN keys add $KEY_NAME --keyring-backend test 2>  $HOME/key-seed.txt
 $RBIN add-genesis-account $KEY_NAME $TOKEN_AMOUNT --keyring-backend test
 $RBIN gentx $KEY_NAME $STAKING_AMOUNT --chain-id $CHAIN_ID --keyring-backend test
 $RBIN collect-gentxs
