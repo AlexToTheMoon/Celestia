@@ -145,7 +145,7 @@ Build up our rollup binary file, will be stored at `$HOME/go/bin`
 cd $HOME/${CHAIN_ID}
 ignite chain build
 ```
-Healthy output `🗃  Installed. Use with: <your_chain_name+d>`
+<SUB>Healthy output `🗃  Installed. Use with: <your_chain_name+d>`</SUB>
 
 
 Create variable for binary file
@@ -157,12 +157,12 @@ Init our rollup working directory and configs
 ```
 $RBIN init "$VAL_NAME" --chain-id $CHAIN_ID
 ```
-In this stage U can make any changes at your configs if U familiar to...
-Config directory ```$HOME/.${CHAIN_ID}/config```
+<SUB>In this stage U can make any changes at your configs if U familiar to </SUB>  
+<SUB>Config directory `$HOME/.${CHAIN_ID}/config`</SUB>
 
 #### Run your Rollup
 
-Download and launch script which will create service file and run node
+Download and launch script which will create service file and run node  
 !! It will generate new wallet, seed phrase will be stored at `$HOME/key-seed.txt`
 ```
 cd $HOME
@@ -175,17 +175,17 @@ Lets check logs
 ```
 sudo journalctl -u celestia-rollupd.service -fn 50 -o cat
 ```
-We have to see blocks with rising height
-daHeight should reply current chain height
+We have to see blocks with rising height  
+`daHeight` should reply current chain height  
 
-`INF successfully submitted Rollkit block to DA layer daHeight=161446 module=BlockManager rollkitHeight=1`
-`INF successfully submitted Rollkit block to DA layer daHeight=161471 module=BlockManager rollkitHeight=2`
+<SUB>`INF successfully submitted Rollkit block to DA layer daHeight=161446 module=BlockManager rollkitHeight=1`</SUB>  
+<SUB>`INF successfully submitted Rollkit block to DA layer daHeight=161471 module=BlockManager rollkitHeight=2`</SUB>  
 
 Full screenshot of healthy logs : https://github.com/AlexToTheMoon/Celestia/blob/main/rollup-logs-png.png
 
-If U see loogs similar to line below, it means it not enough funds on the wallet we created during light node setup.
-Because each block productions on rollup eats 6000utia
-`ERR DA layer submission failed error="Codespace: 'sdk', Code: 5, Message: xxxxutia is smaller than 6000utia: insufficient funds`
+<SUB>If U see loogs similar to line below, it means it not enough funds on the wallet we created during light node setup    
+Because each block productions on rollup reduces  6000utia  
+`ERR DA layer submission failed error="Codespace: 'sdk', Code: 5, Message: xxxxutia is smaller than 6000utia: insufficient funds`</SUB>
 
 
 #### Let`s create our own query in our rollup chain!
@@ -204,9 +204,9 @@ ignite scaffold query $CHAIN_ID --response TheFactIs
 ```
 Add response text
 
-Open file `~/$CHAIN_ID/x/$CHAIN_ID/keeper/query_$CHAIN_ID.go`
-Add respond text between curly brackets to line `return &types.QueryAmsResponse{}, nil`
-Sample : `return &types.QueryAmsResponse{TheFactIs: "Celestia will fly to the moon !!!"}, nil`
+Open file `~/$CHAIN_ID/x/$CHAIN_ID/keeper/query_$CHAIN_ID.go`  
+Add respond text between curly brackets to line `return &types.QueryAmsResponse{}, nil`  
+Sample : `return &types.QueryAmsResponse{TheFactIs: "Celestia will fly to the moon !!!"}, nil`  
 Save file
 
 Rebuild binary file
@@ -214,18 +214,18 @@ Rebuild binary file
 cd $HOME/$CHAIN_ID
 ignite chain build
 ```
-Healthy output `🗃  Installed. Use with: <your_chain_name+d>`
+<SUB>Healthy output `🗃  Installed. Use with: <your_chain_name+d>`</SUB>  
 
 #### Test our new query 
 
-To test all request's U have to enable the API endpoint in app.toml
-U can do this manually yur own
-Or just with one command below:
+To test all request's U have to enable the API endpoint in app.toml  
+U can do this manually your own  
+Or just with one line command below:  
 ```
 sed -i.bak -E "s|^(enable[[:space:]]+=[[:space:]]+).*$|\1true|" $HOME/.$CHAIN_ID/config/app.toml
-``
+```
 
-Let`s launch rollupd service back working
+Let's launch rollupd service back working
 ```
 sudo systemctl restart celestia-rollupd.service
 ```
@@ -238,21 +238,21 @@ Query through REST via CLI
 curl -s http://localhost:1317/$CHAIN_ID/$CHAIN_ID/$CHAIN_ID
 ```
 
-Query through REST via Web Browser
+Query through REST via web browser
 Get Ur IP address 
 ```
 hostname -i | awk '{print $2}'
 ```
-Request in Web Browser, but instead of $CHAIN_ID variable should be your Chain name
+Request in web browser, but instead of $CHAIN_ID variable should be your Chain name  
 check `echo $CHAIN_ID`
 
 http://YOUR-IP:1317/$CHAIN_ID/$CHAIN_ID/$CHAIN_ID 
 
 All three methods should give same output
-which is : *theFactIs: Celestia will fly to the moon !!!* 
+which is : **theFactIs: Celestia will fly to the moon !!!**
 
 
 ##
 <p align="center">
-Congrats, the job done. Thanks U and Good luck!
+ Good luck!
 </p>
