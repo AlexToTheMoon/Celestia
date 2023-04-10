@@ -11,5 +11,7 @@
 * * *
 **Blockspace Services**  
 
-[Guides, Snapshots, RPC, API, Explorer etc..](https://www.theamsolutions.info/celestia)  
+[Guides, Snapshots, RPC, API, Explorer : https://www.theamsolutions.info/celestia](https://www.theamsolutions.info/celestia)  
+
+[Validator Alarm/Notification via Telegram bot service](https://github.com/AlexToTheMoon/AM-Solutions/blob/main/Tenderduty/celestia/manual.md)
 
