@@ -6,7 +6,7 @@
   
 [Validator Alarm/Notification via Telegram bot service / GiT Guie](https://github.com/AlexToTheMoon/AM-Solutions/blob/main/Tenderduty/celestia/manual.md)  
 
-[TMKSM Remote Signing setup for Blockspace Race / GiT Guie ](https://github.com/AlexToTheMoon/AM-Solutions/blob/main/tkms/celestia/blockspacerace.md)
+[TMKMS Remote Signing setup for Blockspace Race / GiT Guie ](https://github.com/AlexToTheMoon/AM-Solutions/blob/main/tkms/celestia/blockspacerace.md)
 
 * * *
 
