@@ -18,7 +18,7 @@
       }
     ]
   },
-  "description": "Umee",
+  "description": "Validator",
   "editable": true,
   "gnetId": null,
   "graphTooltip": 0,
@@ -2154,8 +2154,8 @@
         "allValue": null,
         "current": {
           "selected": false,
-          "text": "umeevengers-1",
-          "value": "umeevengers-1"
+          "text": "blockspacerace-0",
+          "value": "blockspacerace-0"
         },
         "datasource": "$DS",
         "definition": "label_values(chain_id)",
@@ -2241,7 +2241,7 @@
     ]
   },
   "timezone": "utc",
-  "title": "[ Umee ] Cluster",
+  "title": "[ Validator ] Cluster",
   "uid": "art3mis",
   "version": 29
 }
