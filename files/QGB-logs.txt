@@ -1,0 +1,3000 @@
+D[2023-05-29|22:46:50.894] already signed data commitment               nonce=1601 begin_block=594801 end_block=595200 data_root_tuple_root=0x6ca0cd653b1e44f0ca66f3068e0db2c364f720118719e71f747c6c04a3a13135 signature=3c89b3f4d0984a1deb9428677662076caf50de5ae4ddf7c20701880a5738837812a7d1bf4e59bb0e5269aef38d680be311ba629388e37705467ded803c6f224601
+I[2023-05-29|22:46:50.894] processing nonce                             nonce=1600
+D[2023-05-29|22:46:56.011] already signed data commitment               nonce=1600 begin_block=594401 end_block=594800 data_root_tuple_root=0xcafa2252f95be37232aabfa9af629dea8738c786ab7125489d2afdd85a2e7d62 signature=1caf44f19ee01e465c99155a5c47f455f1584f0be1717f7ae42786cade002d0d23d77441eab65384b946596217e0b87a6184eb7a20a54b589c2d1c5cf27cc2c101
+I[2023-05-29|22:46:56.011] processing nonce                             nonce=1599
+D[2023-05-29|22:47:01.118] already signed data commitment               nonce=1599 begin_block=594001 end_block=594400 data_root_tuple_root=0x0d3e0ca54f98c1ef967240af33a1536ff7b19c22be21e3bf029cd4528fedfa85 signature=828ec32e8ac62e3f915d01b72c8aead1b443f4090b0e22d66d7870371b8811ef4a54370f2ede371d61a796f3db8ac620c31ca3dc4662e49194460a136866283001
+I[2023-05-29|22:47:01.118] processing nonce                             nonce=1598
+D[2023-05-29|22:47:01.547] already signed data commitment               nonce=1598 begin_block=593601 end_block=594000 data_root_tuple_root=0xfdfd701d88f69fd02227b5ecf5e89c6b16b104c7202e0281d95ba6f32339a7ac signature=499fe66abc5b8647918e660db4c594a8524b2fde320682778035396e80e659ae1593d6e949876db44b8327548f398a1e4e2996e8cac16469cb7adc832259b86b00
+I[2023-05-29|22:47:01.547] processing nonce                             nonce=1597
+D[2023-05-29|22:47:01.855] already signed data commitment               nonce=1597 begin_block=593201 end_block=593600 data_root_tuple_root=0x67942038835a3a477c7bbf4e599a7a61302c9fe77be35c2657260ac6057efea3 signature=4b39c2cbf5ec367c0e88232dd78437f49e134fff143bc3f72ab59c44ad2df3b219b01a20f61226b95eff1cf710430b1e140fcd2ed5727db1bfee1598f17b13d401
+I[2023-05-29|22:47:01.855] processing nonce                             nonce=1596
+D[2023-05-29|22:47:02.114] already signed data commitment               nonce=1596 begin_block=592801 end_block=593200 data_root_tuple_root=0x159629ee46079eff6c321f595b0a3c7a90cc7606fc0dbbd2c097f09f92e86529 signature=a28563da95d4d542cb5f9607bbaf45fdb7a59354c307d8acfef8f9cd8b0afe5a5f0ed1970ac658bc7d4f2376b1892c3ff1bee230f7143c17f757d31fbc9c505200
+I[2023-05-29|22:47:02.114] processing nonce                             nonce=1595
+D[2023-05-29|22:47:12.214] already signed data commitment               nonce=1595 begin_block=592401 end_block=592800 data_root_tuple_root=0x07d2a725e48ba755578e96dd3bd4b4cc39d0cce7cbc2620a0c7665ac4db91852 signature=8773e1c8d281c7bd90e4a0a7291f62f9cadb666391a2f0ab60490dcc552d78c32747367adfc44172db90499d1f65afaa687bc6789fd31672da2db1f25e0ca70d01
+I[2023-05-29|22:47:12.214] processing nonce                             nonce=1594
+D[2023-05-29|22:47:22.361] already signed data commitment               nonce=1594 begin_block=592001 end_block=592400 data_root_tuple_root=0xbcfc33de5c67d95e5eaff70bf18360bce519b85ce4bdce6fa40da95004505ae2 signature=1dee7a9deea0153a7e08378fc8e7a3ba3f00c02ce0c0b43a4117abbc095a474e6dccfb61a95b6acb3708db859e1dd364d1815d90cd9c7332f1bb6fa2bbaa1c6e01
+I[2023-05-29|22:47:22.361] processing nonce                             nonce=1593
+D[2023-05-29|22:47:32.444] already signed data commitment               nonce=1593 begin_block=591601 end_block=592000 data_root_tuple_root=0xa29f5a60914c79cc4e248f0ef6a1bec5783bb3694b969dc0055a31738d62e7a5 signature=500bacf2824edb4754f9aa5023695f49e9e622f8254fba61a3ab1040b3d95b447bd04cafbd7b94b3f4640d89e178c1f0477c2ac5a68a9b6a4b037edbee687ccb00
+I[2023-05-29|22:47:32.444] processing nonce                             nonce=1592
+D[2023-05-29|22:47:42.534] already signed data commitment               nonce=1592 begin_block=591201 end_block=591600 data_root_tuple_root=0x990d70f6c931ec2330f94fd541031cc24f29318c50c7904dbc451c9adde4f379 signature=01e01f58565f95efb9f853804b3bb6d1115f344f6e3eb73778f200044743841d16b1777296dc066431bd40f64e952cdf1b76a052c41001d3688ae340251d97a801
+I[2023-05-29|22:47:42.534] processing nonce                             nonce=1591
+D[2023-05-29|22:47:47.917] already signed data commitment               nonce=1591 begin_block=590801 end_block=591200 data_root_tuple_root=0x0036430c458a3b643aed35ec6faa09b160a1035362e7f1d7e17775c66c10db89 signature=d3d162f95ba5af86b7ddb0ef6f7653909b02b52bb711011a4c1c1a4e0e834a7406ef3b85b05744c9f446194b376d01766b0aa960be0de5a0db3d2c02c8b1dafe01
+I[2023-05-29|22:47:47.917] processing nonce                             nonce=1590
+D[2023-05-29|22:47:49.039] already signed data commitment               nonce=1590 begin_block=590401 end_block=590800 data_root_tuple_root=0x725263d9b4a819c968fe115c145fd81ecbfcdf3efe64a9fff61f30c2e263ca96 signature=72c4aa2cf84afc2c459a82634f81422f4cf247e5ca8e9272a8df761785819abb0b89ce580dea68d3f9fc24c1ac9605d7b8a2253ee80cda063cc41003c886003201
+I[2023-05-29|22:47:49.039] processing nonce                             nonce=1589
+D[2023-05-29|22:47:54.191] already signed data commitment               nonce=1589 begin_block=590001 end_block=590400 data_root_tuple_root=0x4fbd61c0dee53eff53512f577760644e079858a39682381a936c1d813e8772bd signature=ced2f7851fc212a01b64c2a6ec63c73c31646e7d851a43cb82595b662492fc2c03868546ecd54afe706ce62399b5a3de17b02dcc0e910d3289b0ef7df6932ca000
+I[2023-05-29|22:47:54.191] processing nonce                             nonce=1588
+D[2023-05-29|22:47:54.510] already signed data commitment               nonce=1588 begin_block=589601 end_block=590000 data_root_tuple_root=0x00e7ab659f7de765f4111756493b26ae8f2dc722ac221d781c0142b4f4ce91ac signature=dff08c6a58dc3a0083e1ef09fff1472b51254ef267ef6392a8c9b313fbd5687b12eeb963f536a930a55de1efe4d4bba43ad9477317fe5adcd834aeae941cfbbb00
+I[2023-05-29|22:47:54.510] processing nonce                             nonce=1587
+D[2023-05-29|22:47:59.783] already signed data commitment               nonce=1587 begin_block=589201 end_block=589600 data_root_tuple_root=0x67e5fb02d5d7a8919e9af67e3959db400d54cccc377168280d5e555590609140 signature=613c921f8abe1ac082e7ba1bfd6802a840a6be0d1619a2f80a2bdb1aeeb981386098069ff062d3d10d2cf5be83bf7720ca4c78a01caf295b8c08684c8b915c1901
+I[2023-05-29|22:47:59.783] processing nonce                             nonce=1586
+D[2023-05-29|22:48:00.090] already signed data commitment               nonce=1586 begin_block=588801 end_block=589200 data_root_tuple_root=0x360c5819bbe32225e8e434f96646178cb4f8b1edcadaf7b3475107667bb33b10 signature=3d5e55784823f887372a2e76ff3e86ecefe7f39f0f02c38f33fe1b8ddd97a5562c2728f055a73135b5528564625cae9d6608a3d8c820153791b0d6a4180c260600
+I[2023-05-29|22:48:00.090] processing nonce                             nonce=1585
+D[2023-05-29|22:48:00.536] already signed data commitment               nonce=1585 begin_block=588401 end_block=588800 data_root_tuple_root=0x547201deada11408cca3ec6e8126e8aa7ed718d7f2fc7a1902c06a8df065cf68 signature=1d2a14ad93c300f40b6478b4cc715a06009b16f286d3d13996aa0f22890273f275f80753dad75ebe2fdd3b004a5155c07f8f0e823f5f8fbe9b20928079e9de3700
+I[2023-05-29|22:48:00.536] processing nonce                             nonce=1584
+D[2023-05-29|22:48:10.659] already signed data commitment               nonce=1584 begin_block=588001 end_block=588400 data_root_tuple_root=0xa7e390e15a9a6b568b2bc42a61cdf5cc8571ec39382333a773877ffe187d6685 signature=c378ceb9cb78b066a31b495769c7804cc3d7b69e3d3f8606c09dafa1b2dbefba0ec7a2e78678913f0d536e36f395e0a2caf2fd9328de7415513cd835fac5b40300
+I[2023-05-29|22:48:10.659] processing nonce                             nonce=1583
+D[2023-05-29|22:48:15.877] already signed data commitment               nonce=1583 begin_block=587601 end_block=588000 data_root_tuple_root=0x2d9d9c4dc3fc17c8c0a0a0f8669b430ccd325c46388306b2d347f8ae0317722b signature=d00554de4d3c8436d2ab9017bd92e8832befd135c4851f9a02f6442a7108cc936a017bd16892606b47c04474f04f2cf83ce49bf51be616642a15764b66e0173a00
+I[2023-05-29|22:48:15.877] processing nonce                             nonce=1582
+D[2023-05-29|22:48:21.015] already signed data commitment               nonce=1582 begin_block=587201 end_block=587600 data_root_tuple_root=0x349163b33cf3d783b84ed2ce247cd041da8f277c3beafe4e19a4b58b229eb960 signature=c15c40f339521bb2588be8aa4614bf2154a042e61c97e52a8f97b5fdaa5798127e272368c4cf305ae2088d4aab434029adadb4a764142f425367deab37becdf200
+I[2023-05-29|22:48:21.015] processing nonce                             nonce=1581
+D[2023-05-29|22:48:21.755] already signed data commitment               nonce=1581 begin_block=586801 end_block=587200 data_root_tuple_root=0xd4db071bd18bdc8bac0cb92ff8379559e1a24489d1cd2deaa23402ee723fc934 signature=7bbe631ce17548c0756e1f83d213a8cb801a4f75747472c21c2530f46959434d0b73f802cb2f9e6af277d0fc10baf770fe4a45bdc897e7876355a014b1b923d601
+I[2023-05-29|22:48:21.755] processing nonce                             nonce=1580
+D[2023-05-29|22:48:22.163] already signed data commitment               nonce=1580 begin_block=586401 end_block=586800 data_root_tuple_root=0x83b9750d3ce7cb4b84a54aa829eb518f1c33c13b3ae9d0209b62aaa59d080d4d signature=4214313861a3f2f4d9b715f65ba83c2845ca88b688b9ee9895e16125457221537f8ed31afa45146c520c07af8ea418af59c65bc6210677ce075ff1e12c0c64b500
+I[2023-05-29|22:48:22.163] processing nonce                             nonce=1579
+D[2023-05-29|22:48:32.323] already signed data commitment               nonce=1579 begin_block=586001 end_block=586400 data_root_tuple_root=0x61fe0f5c381905a49e800aac36fdff0918b482957c64bdc7025b2315edbba0df signature=2578db3b47f3bd6b27ace36f343fb048a1100614a50f58c663ff740967a0d6313bb5aa72c72fb74ab51ff8dbb913d283a65b0b84d2818369ac0ff5e407e80aaf00
+I[2023-05-29|22:48:32.323] processing nonce                             nonce=1578
+D[2023-05-29|22:48:37.461] already signed data commitment               nonce=1578 begin_block=585601 end_block=586000 data_root_tuple_root=0x7910fbc1fd565cfec99d1ccf830901e10bd7f40999a39b463af13704b305eb9a signature=871db37baa03c929ded6d083d0722e09cdc79f3d72e50e8cfb1b5f17d63f868574540b21f9784e3894d39839252682ab45641fbc073a60c463edd067dfaa1d7001
+I[2023-05-29|22:48:37.461] processing nonce                             nonce=1577
+D[2023-05-29|22:48:42.736] already signed data commitment               nonce=1577 begin_block=585201 end_block=585600 data_root_tuple_root=0x174a69774dc5a238398e16784673567c416b3116acf2120106eea1a95d14747c signature=c5ac8d4266f99ddbbe88226a460ba9fe3e8d257973a6223929463a9e9d868237200a6178eb70088bdb8aa59c32c0b2840ef778ec2e461d5ff7473fcf3507dce100
+I[2023-05-29|22:48:42.736] processing nonce                             nonce=1576
+D[2023-05-29|22:48:43.025] already signed data commitment               nonce=1576 begin_block=584801 end_block=585200 data_root_tuple_root=0x35e89c7392b91730ff697c7bdfb51f1b6f4c656801a1ea6266c8b713e3d0e487 signature=b750a0190117a97e1a6b98c5ba3ae594910c4ba04751809c498505dc97f2d1fc0c1c735bfecf898bdb2115ebda20b5c21ecaae10fa5d4cb0e7df1b02651ead7c01
+I[2023-05-29|22:48:43.025] processing nonce                             nonce=1575
+D[2023-05-29|22:48:48.105] already signed data commitment               nonce=1575 begin_block=584401 end_block=584800 data_root_tuple_root=0xd39f1aaa6d813e60db92803c45f91ca2f839e1f52b5bc8f73f8252fe62e60dcf signature=5a847856f19a0be968b9e3d1f4a948be1918ff93f23bff0611e6be66efbd102576a49da70cf3d50079703f1f08f2aaf573dfb84ffc79dcb50677276d104b5a8e01
+I[2023-05-29|22:48:48.105] processing nonce                             nonce=1574
+D[2023-05-29|22:48:49.012] already signed data commitment               nonce=1574 begin_block=584001 end_block=584400 data_root_tuple_root=0xcff95ee69011591280c52fea2bb95dc3d466c1cfd8a797c9a1b68232f57632d5 signature=7d6a721a8efaa09e999c613c07707a1457d6a4a9ad26233eadc9f3818e2da34f450c86b1b00b695451a1e7a5313b2ed2d82b50a9d2dfaca68d7acde3d6ea517701
+I[2023-05-29|22:48:49.012] processing nonce                             nonce=1573
+D[2023-05-29|22:48:54.201] already signed data commitment               nonce=1573 begin_block=583601 end_block=584000 data_root_tuple_root=0x317f1cfc5588e64bad51659227d2db1812fff0a9be3f9f118a42f26365236cd1 signature=e1d723ea68fc062eff64b94845db7de927365f98d1f1850cd5f74955b6ec563a7b91d1889ec4ed751484651c3586228d2785db53853c5def265fc0bfb8a80d6300
+I[2023-05-29|22:48:54.201] processing nonce                             nonce=1572
+D[2023-05-29|22:48:59.327] already signed data commitment               nonce=1572 begin_block=583201 end_block=583600 data_root_tuple_root=0x345aafd1df81eee5f9006ff3cbdc53cbbdd3ecb84dc5c85a70ebb57a8388f1eb signature=2de381415b3ec9bf3e6a06a25e75b4688dcd8ea6b33ca29f0fd58c616ad287321091ac267b0630bb6774a26af048d558bbb84f24559257e881db2983e9c755e700
+I[2023-05-29|22:48:59.327] processing nonce                             nonce=1571
+D[2023-05-29|22:48:59.743] already signed data commitment               nonce=1571 begin_block=582801 end_block=583200 data_root_tuple_root=0x8cbd4de93de4641e94cdfb50062641fa9e193e512ae1c8822d24dfab6fdf526a signature=d2c47139831800071a39c278b90fc8ef2716a16cf26677c876bf3562f018688014d541460ad2a5bf3710278e231c47fd4bc8fb93e3deb639f1f91339ab6ca6e300
+I[2023-05-29|22:48:59.743] processing nonce                             nonce=1570
+D[2023-05-29|22:49:00.214] already signed data commitment               nonce=1570 begin_block=582401 end_block=582800 data_root_tuple_root=0xd94814f13aa2face2730c3a4151980be3a8d4151c057deca2e8eede128f88c9a signature=f03071f1af4ce5ff34f2149dc80e0aad87783a4cbc45e229e6af4f7955268b061c9e1a1168c3a8c2b36709108c2b2c22024cbc1ef339e37a0ef1ad97ca31330300
+I[2023-05-29|22:49:00.214] processing nonce                             nonce=1569
+D[2023-05-29|22:49:05.310] already signed data commitment               nonce=1569 begin_block=582001 end_block=582400 data_root_tuple_root=0x8dfc8fd59dd5f7223cec4170d8a222a4a1051a419ca88d08c4761a1af378c4cd signature=77ac0bdcacb707044c102be4c0a4936e0166b9be8b8c77ddd8f7b3e0835006b0455d220570d85cd3cc3c24d0a27ae5085b24c6a316e4136ffd7a33799e9ac17800
+I[2023-05-29|22:49:05.310] processing nonce                             nonce=1568
+D[2023-05-29|22:49:10.396] already signed data commitment               nonce=1568 begin_block=581601 end_block=582000 data_root_tuple_root=0x4ac36fe821066cb8834c0034bd2577068bc0a0e21df2123636bb3efe7c68bb4b signature=22224f3df3f0a6ee9ddca1616ce31e2b3d3f0e7d6b7c91b298c0d683d162f45425678c2cd424bb2b392fcc73fb5b49d7a6d33736ad9b5dc3fb2a0b60711fb28a00
+I[2023-05-29|22:49:10.396] processing nonce                             nonce=1567
+D[2023-05-29|22:49:10.744] already signed data commitment               nonce=1567 begin_block=581201 end_block=581600 data_root_tuple_root=0x1f7e7461d30e91fad0b822c075340332869b9b600491861d10b3a581f4808031 signature=49d1d2e7d14d564d844d516135178b534b5a81df823d797dd7adc4bcf8fd27d16e74f95c244b7888184df55ff8b823820df95d28f40a7cb50294d61a22a4fdb000
+I[2023-05-29|22:49:10.744] processing nonce                             nonce=1566
+D[2023-05-29|22:49:20.826] already signed data commitment               nonce=1566 begin_block=580801 end_block=581200 data_root_tuple_root=0xcb4fd30e0d18bb91127f89eda9590561797146073148332dd075a5c5b2604a12 signature=a1fffd1b018a773fcdf7dc0e19c5d08e9817868fd2898e18b202f80f3f1fdbfa5bc34c64c58fe47a5cbc97be740b2bb56f3c2acb1f8249e35af3c8c679d629ca01
+I[2023-05-29|22:49:20.826] processing nonce                             nonce=1565
+D[2023-05-29|22:49:25.946] already signed data commitment               nonce=1565 begin_block=580401 end_block=580800 data_root_tuple_root=0xcbfcd670fe12d25e1319af9bf076dbc4335e3f0729837cc35247c99a9839f3a0 signature=3ddfab1eee4aeabebeafe4a05a585aa9f7719f8630ab7fbad70ebee77cebeec157315e08f978f1d1305978a58623385d2f74097c5ee4363b0c402a748f1a064701
+I[2023-05-29|22:49:25.946] processing nonce                             nonce=1564
+D[2023-05-29|22:49:26.189] already signed data commitment               nonce=1564 begin_block=580001 end_block=580400 data_root_tuple_root=0x5672f75e2c3205b47dd18acfc401d6a508a0cc49b6d41d30bd14a2432e81a973 signature=5da906ab42476ee9016399516a9c85960ee6534a8c778137217ac81b6f3e761c2366c5f0d262cea76f189da6ef47659176ce17455833aff6cbd273f99d7747f300
+I[2023-05-29|22:49:26.189] processing nonce                             nonce=1563
+D[2023-05-29|22:49:31.313] already signed data commitment               nonce=1563 begin_block=579601 end_block=580000 data_root_tuple_root=0xef728ee7a547564688e95d0114467ce1d02415f37c01cdb6ef34106a0348cd0b signature=7877081ad03e4bd58c314d738fe89c66d0e47df30b41cc2ba049f7d9208beace55e9b1aede43015bc841c48ebaae9c03dd6ecfad4f11b3dac92d06b517f8897b00
+I[2023-05-29|22:49:31.313] processing nonce                             nonce=1562
+D[2023-05-29|22:49:36.551] already signed data commitment               nonce=1562 begin_block=579201 end_block=579600 data_root_tuple_root=0xf73e1d96bf92426d2ef3bbbb24e9d68c8ff7264b922c01477f2dfe06db1227ea signature=f2392a37379d0055ea8bba35b4f7721ac93faf328e62ccb39b8676b2bdb2b58874ae148dd53351e64602e4b7f69d7a8e268fd11c2a2f80e82ff4871b32647e2701
+I[2023-05-29|22:49:36.551] processing nonce                             nonce=1561
+D[2023-05-29|22:49:36.963] already signed data commitment               nonce=1561 begin_block=578801 end_block=579200 data_root_tuple_root=0x03fdf72c9eb66ef81ff08d1d34d762c59618db2d4a6c3035540574af498b5b86 signature=d98fcad4745bc9ef5a060abf5e01f31fe3c81a8c8379fefbfb2d2277be2dda8e7be40cfbc3e07288ab22444feb1dc0e04dac03abd4372828a39a93ff6f97a79400
+I[2023-05-29|22:49:36.963] processing nonce                             nonce=1560
+D[2023-05-29|22:49:42.086] already signed data commitment               nonce=1560 begin_block=578401 end_block=578800 data_root_tuple_root=0x0394311fb26a5feb9e8e747aa91934c2c7cbf40cd9f94562cc4e56d1e76f0a89 signature=62a7c31f9d3333a50c974022907e3a45a3ca8b8edcaf8f10ba7b7ae3e787585a622c10be399005b1731d968feb483214fdf2c79e7657fbac42ae019a669f797801
+I[2023-05-29|22:49:42.086] processing nonce                             nonce=1559
+D[2023-05-29|22:49:42.453] already signed data commitment               nonce=1559 begin_block=578001 end_block=578400 data_root_tuple_root=0x74ca89d4132a37832f372646b3703c148889478e805d24903fd13d2b8dd07dc4 signature=32b0118064cd07e279455e182cd4039381eee28b4f25b89d4924e479f936dde269543f1aa8b84e3e035587b3dcb65b261550d9b2534b3b1be4cdbe4f35370e6500
+I[2023-05-29|22:49:42.453] processing nonce                             nonce=1558
+D[2023-05-29|22:49:47.615] already signed data commitment               nonce=1558 begin_block=577601 end_block=578000 data_root_tuple_root=0x1497acff49bd67ccbd944702a97bc9b2eb41eb4c50e7d63ca7fc676b1f411b35 signature=6dc056631e9d8b1e2c447a09f38ab9c55fff222bc1b309dd9697a9f7d9225f7771a5ef8a860ef2d68bb87e66c10ad09801107febeaf20c6747a38d68df9aacdd00
+I[2023-05-29|22:49:47.616] processing nonce                             nonce=1557
+D[2023-05-29|22:49:47.912] already signed data commitment               nonce=1557 begin_block=577201 end_block=577600 data_root_tuple_root=0x86e401a46d710043fc9914e0251f50ff3343cd05c531d61137604b83cae9502e signature=c28feeeb1a1eba1d4a6dfb095c1463042ff9b10cd0df7c4a83eac002623e0bcf03da0d422364b31085939877867e41e816266940c9b566d73fc9708ff3f5ca7401
+I[2023-05-29|22:49:47.912] processing nonce                             nonce=1556
+D[2023-05-29|22:49:48.230] already signed data commitment               nonce=1556 begin_block=576801 end_block=577200 data_root_tuple_root=0xd490235153177e536e028ece1e2c86b55d24fe20164b861f1a39bb2f8e5116bf signature=631c077591b5e7319e22d054b80f6d521fc0d00601615aa8010b19f497c4f8c04c01b20cfeb74af0222393ef506545b2273dea2a651fc9049349ce3494100ef701
+I[2023-05-29|22:49:48.230] processing nonce                             nonce=1555
+D[2023-05-29|22:49:53.494] already signed data commitment               nonce=1555 begin_block=576401 end_block=576800 data_root_tuple_root=0x20bd2990054e33bb007b4712c3f5263863f39120ab13446e3b49e69922ddd504 signature=b3a9ddf57fc7733e8139a04f9625dc657440e2c90d054c3fe0a50ed153ae200e647d72dbbc97fb6b7dddfe50298c8f2cafe2fe68d6ca686569f6263bd4ad29ee00
+I[2023-05-29|22:49:53.494] processing nonce                             nonce=1554
+D[2023-05-29|22:49:53.723] already signed data commitment               nonce=1554 begin_block=576001 end_block=576400 data_root_tuple_root=0xd3dfebc3cb770b0d9ce63c8629cc0387df43ccb84a3931d313b908a6eaed7b8e signature=10f9e2a6b53f5371510a268091fba256d30b7215456de56c89c8bd994eea1f9653eac706e82fa2fc566454dccc1f616fcbf0134bc1fb821e921e824f3473e3b201
+I[2023-05-29|22:49:53.723] processing nonce                             nonce=1553
+D[2023-05-29|22:49:58.869] already signed data commitment               nonce=1553 begin_block=575601 end_block=576000 data_root_tuple_root=0xd7f92d4d81a0da7e7fb6992b2a01420158bf4b2491400b27c6aac4d4e4def61b signature=9db1c0a970e869fe92e7290234e35af2dea41184cdfb16189bfa8b633f8f37dc0bbfe84e69197e2a0e6868e3344bae789bf067b6cead3162880336295a9c42d201
+I[2023-05-29|22:49:58.869] processing nonce                             nonce=1552
+D[2023-05-29|22:49:59.188] already signed data commitment               nonce=1552 begin_block=575201 end_block=575600 data_root_tuple_root=0x306ff54ddf70cf494f8ea94915a2c102fc256b7af051db5a1806f7ac5826ade9 signature=fbdc2442080462138582824b569fa90872e860ef6bbd34501253915f835316c9184fa6f1417fe5c3023657ba99642873cfbb9792ed33541da3f8309d3893ae8301
+I[2023-05-29|22:49:59.188] processing nonce                             nonce=1551
+D[2023-05-29|22:50:04.309] already signed data commitment               nonce=1551 begin_block=574801 end_block=575200 data_root_tuple_root=0xfe23d11acb692f3263a174245df5a8c3ff90de614482d7c6af2e75e1f0c64d78 signature=d550df9f5a540c85f8978721efabbf868ae91c8ee9f7b6eaad80271fe1bd6d942c46ee016874af735ba967088444c2827a396c13b91679eec325173b63022c5b00
+I[2023-05-29|22:50:04.309] processing nonce                             nonce=1550
+D[2023-05-29|22:50:06.535] already signed data commitment               nonce=1550 begin_block=574401 end_block=574800 data_root_tuple_root=0x80d3226629bc3a88f94731e109515d7bed0d0b60aa9364f07160ae2e67703cb9 signature=daa6c3be768bf771d44fcd1773a89a06037c95b08c9c5fd57afb86e36fda80a95d7d6615b1b2a463209096f28ad85fa9ded9d19e90b6efa9540988e8ced4fe9801
+I[2023-05-29|22:50:06.535] processing nonce                             nonce=1549
+D[2023-05-29|22:50:07.131] already signed data commitment               nonce=1549 begin_block=574001 end_block=574400 data_root_tuple_root=0x9767dcb0dd4df4e82cd49dd7550b49c69f4e2345a6a14fd970a6b1d4f63b40e7 signature=37403ef3eeb7a7b1759450e60c41cc0005b64e3d55b19501bfd68386f18388ed3955945611049b355beff8ef3a23ff2e3ded03f2377d05f139e66c4888e13d1401
+I[2023-05-29|22:50:07.131] processing nonce                             nonce=1548
+D[2023-05-29|22:50:12.219] already signed data commitment               nonce=1548 begin_block=573601 end_block=574000 data_root_tuple_root=0x40b4845249d3e905177df0f4c586a5059fc5bd873415fef840868e6b6187841d signature=52b7fe155e2698882b089a2720da6495dddbe4ebf9fb2dda1ecffbb3176c31284ec3a277f07f022d971c064b74a7bb2d48e4fdaa922437ea127d5064d6085b2a01
+I[2023-05-29|22:50:12.219] processing nonce                             nonce=1547
+D[2023-05-29|22:50:12.482] already signed data commitment               nonce=1547 begin_block=573201 end_block=573600 data_root_tuple_root=0xe15054c4c92f3aa8b093c734b275c9d7497dcea8c91d0de35883c951576fcd91 signature=92af8a55db08367d16ecd5f2110f31238096cd0d668199a25f871aaff22ee13e6de74f883577599065220ed8e9b08c8afd7a26b075dcee760f81210e854da8f101
+I[2023-05-29|22:50:12.482] processing nonce                             nonce=1546
+D[2023-05-29|22:50:12.763] already signed valset                        nonce=1546 signature=7c4ad5af55aafd9096f0900ad874979b245576d76f7d0cfade10b2a3c63f1c786edadceae90ce56ab86ed7ed0b1340c91a0b6d09f09766550252ee2eb679b88501
+I[2023-05-29|23:01:54.071] enqueueing new attestation nonce             nonce=1629
+I[2023-05-29|23:01:54.071] processing nonce                             nonce=1629
+I[2023-05-29|23:01:59.613] signed commitment                            nonce=1629 begin_block=606001 end_block=606400 data_root_tuple_root=0xb2a3128c32e24be9eea8e9cf4a567c79a68ccb1bd13d664518845d3168d79bb8
+I[2023-05-30|00:15:38.968] enqueueing new attestation nonce             nonce=1630
+I[2023-05-30|00:15:38.968] processing nonce                             nonce=1630
+I[2023-05-30|00:15:44.372] signed commitment                            nonce=1630 begin_block=606401 end_block=606800 data_root_tuple_root=0xe21c95471e31be3c1456ec9f334a1ee1c7d4dd0739f6ab30774eed2f34def234
+I[2023-05-30|01:28:45.171] enqueueing new attestation nonce             nonce=1631
+I[2023-05-30|01:28:45.171] processing nonce                             nonce=1631
+I[2023-05-30|01:28:46.236] signed commitment                            nonce=1631 begin_block=606801 end_block=607200 data_root_tuple_root=0xeba033668a90f18a2538502c2ec03f40f241c5090a72f95c9d010a765d96dc8e
+I[2023-05-30|02:42:06.610] enqueueing new attestation nonce             nonce=1632
+I[2023-05-30|02:42:06.610] processing nonce                             nonce=1632
+I[2023-05-30|02:42:08.185] signed commitment                            nonce=1632 begin_block=607201 end_block=607600 data_root_tuple_root=0x262d5d326bf91f3b1889fa478da39860dda98027625f4d37e9f2df7d009cb723
+I[2023-05-30|03:55:54.204] enqueueing new attestation nonce             nonce=1633
+I[2023-05-30|03:55:54.204] processing nonce                             nonce=1633
+I[2023-05-30|03:56:24.740] signed commitment                            nonce=1633 begin_block=607601 end_block=608000 data_root_tuple_root=0x8db4242fb87b06a3c6bdb2bad34f3157d312d9c91df91d0d76d588c9dcf5de87
+I[2023-05-30|05:10:04.468] enqueueing new attestation nonce             nonce=1634
+I[2023-05-30|05:10:04.468] processing nonce                             nonce=1634
+I[2023-05-30|05:10:05.465] signed commitment                            nonce=1634 begin_block=608001 end_block=608400 data_root_tuple_root=0x7ad7292eea9b7380da1ef4b1880541adc7b1d765d7a689014023d6e2bfc9c65a
+I[2023-05-30|06:24:12.818] enqueueing new attestation nonce             nonce=1635
+I[2023-05-30|06:24:12.818] processing nonce                             nonce=1635
+I[2023-05-30|06:24:13.319] signed commitment                            nonce=1635 begin_block=608401 end_block=608800 data_root_tuple_root=0xa6616c3d647c7831277eb3e223e891f274a7b55ac95e13c972d1b082d5aec95d
+E[2023-05-30|07:38:11.391] tendermint RPC down. Retrying to connect
+I[2023-05-30|07:38:11.391] trying to recover from error...
+I[2023-05-30|07:39:11.391] retrying                                     retry_number=0 retries_left=6
+E[2023-05-30|07:39:11.392] failed attempt                               retry=0 err="dial tcp 127.0.0.1:36657: connect: connection refused"
+I[2023-05-30|07:41:11.392] retrying                                     retry_number=1 retries_left=5
+E[2023-05-30|07:41:11.393] failed attempt                               retry=1 err="dial tcp 127.0.0.1:36657: connect: connection refused"
+I[2023-05-30|07:45:11.394] retrying                                     retry_number=2 retries_left=4
+E[2023-05-30|07:45:11.394] failed attempt                               retry=2 err="dial tcp 127.0.0.1:36657: connect: connection refused"
+I[2023-05-30|07:53:11.395] retrying                                     retry_number=3 retries_left=3
+E[2023-05-30|07:53:11.395] failed attempt                               retry=3 err="dial tcp 127.0.0.1:36657: connect: connection refused"
+I[2023-05-30|08:09:11.395] retrying                                     retry_number=4 retries_left=2
+E[2023-05-30|08:09:11.395] failed attempt                               retry=4 err="dial tcp 127.0.0.1:36657: connect: connection refused"
+I[2023-05-30|08:41:11.396] retrying                                     retry_number=5 retries_left=1
+E[2023-05-30|08:41:11.396] failed attempt                               retry=5 err="dial tcp 127.0.0.1:36657: connect: connection refused"
+E[2023-05-30|08:41:11.396] dial tcp 127.0.0.1:36657: connect: connection refused
+E[2023-05-30|08:41:11.396] client is not running. Use .Start() method to start
+E[2023-05-30|08:41:11.396] error listening to new attestations          err="dial tcp 127.0.0.1:36657: connect: connection refused"
+E[2023-05-30|08:41:11.397] stopping listening to new attestations
+E[2023-05-30|08:41:11.397] error processing attestations                err="signal channel sent notification to stop"
+E[2023-05-30|08:41:11.398] stopping processing attestations
+E[2023-05-30|08:41:11.398] already stopped
+I[2023-05-30|08:41:11.576] successfully closed store                    path=/data/celest-rpc/.orchestrator
+2023-05-30T08:41:11.579Z	ERROR	providers	providers/providers_manager.go:154	failed to flush datastore: datastore closed
+orchd.service: Deactivated successfully.
+orchd.service: Consumed 1min 41.397s CPU time.
+orchd.service: Scheduled restart job, restart counter is at 4.
+Stopped QGB orchestrator service.
+orchd.service: Consumed 1min 41.397s CPU time.
+Started QGB orchestrator service.
+D[2023-05-30|08:41:21.883] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 5.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:41:32.078] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 6.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:41:42.347] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 7.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:41:52.584] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 8.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:42:02.949] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 9.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:42:13.090] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 10.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:42:23.346] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 11.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:42:33.592] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 12.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:42:43.846] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 13.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:42:54.087] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 14.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:43:04.359] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 15.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:43:14.594] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 16.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:43:24.842] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 17.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:43:35.090] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 18.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:43:45.354] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 19.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:43:55.600] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 20.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:44:05.843] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 21.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:44:16.119] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 22.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:44:26.349] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 23.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:44:36.586] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 24.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:44:46.842] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 25.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:44:57.092] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 26.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:45:07.345] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 27.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:45:17.604] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 28.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:45:27.851] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 29.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:45:38.105] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 30.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:45:48.347] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 31.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:45:58.601] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 32.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:46:08.850] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 33.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:46:19.110] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 34.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:46:29.355] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 35.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:46:39.612] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 36.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:46:49.849] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 37.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:47:00.115] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 38.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:47:10.357] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 39.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:47:20.644] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 40.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:47:30.876] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 41.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:47:41.092] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 42.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:47:51.342] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 43.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:48:01.601] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 44.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:48:11.844] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 45.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:48:22.111] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 46.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:48:32.375] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 47.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:48:42.604] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 48.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:48:52.855] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 49.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:49:03.091] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 50.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:49:13.346] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 51.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:49:23.624] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 52.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:49:33.844] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 53.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:49:44.099] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 54.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:49:54.347] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 55.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:50:04.594] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 56.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:50:14.869] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 57.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:50:25.085] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 58.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:50:35.403] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 59.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:50:45.588] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 60.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:50:55.832] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 61.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:51:06.089] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 62.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:51:16.360] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 63.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:51:26.592] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 64.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:51:36.830] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 65.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:51:47.103] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 66.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:51:57.354] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 67.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:52:07.741] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 68.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:52:17.850] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 69.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:52:28.123] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 70.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:52:38.341] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 71.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:52:48.586] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 72.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:52:58.852] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 73.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:53:09.097] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 74.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:53:19.359] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 75.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:53:29.610] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 76.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:53:39.818] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 77.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:53:50.107] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 78.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:54:00.340] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 79.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:54:10.607] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 80.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:54:20.840] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 81.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:54:31.107] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 82.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:54:41.344] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 83.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:54:51.590] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 84.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:55:01.845] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 85.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:55:12.105] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 86.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:55:22.365] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 87.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:55:32.588] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 88.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:55:42.845] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 89.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:55:53.083] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 90.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:56:03.349] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 91.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:56:13.608] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 92.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:56:23.840] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 93.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:56:34.100] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 94.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:56:44.335] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 95.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:56:54.593] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 96.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:57:04.838] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 97.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:57:15.112] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 98.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:57:25.346] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 99.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:57:35.686] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 100.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:57:45.852] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 101.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:57:56.116] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 102.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:58:06.349] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 103.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:58:16.592] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 104.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:58:26.836] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 105.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:58:37.103] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 106.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:58:47.349] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 107.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:58:57.612] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 108.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:59:07.867] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 109.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:59:18.086] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 110.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:59:28.352] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 111.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:59:38.598] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 112.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:59:48.842] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 113.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|08:59:59.096] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 114.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:00:09.535] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 115.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:00:19.842] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 116.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:00:30.252] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 117.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:00:40.372] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 118.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:00:50.595] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 119.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:01:00.847] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 120.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:01:11.097] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 121.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:01:21.333] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 122.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:01:31.592] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 123.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:01:41.834] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 124.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:01:52.093] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 125.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:02:02.343] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 126.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:02:12.596] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 127.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:02:22.848] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 128.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:02:33.100] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 129.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:02:43.345] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 130.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:02:53.596] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 131.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:03:03.900] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 132.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:03:14.099] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 133.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:03:24.340] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 134.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:03:34.576] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 135.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:03:44.837] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 136.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:03:55.106] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 137.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:04:05.343] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 138.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:04:15.576] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 139.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:04:25.845] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 140.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:04:36.083] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 141.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:04:46.328] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 142.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:04:56.598] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 143.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:05:06.830] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 144.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:05:17.086] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 145.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:05:27.354] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 146.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:05:37.581] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 147.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:05:47.834] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 148.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:05:58.086] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 149.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:06:08.344] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 150.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:06:18.584] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 151.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:06:28.838] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 152.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:06:39.092] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 153.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:06:49.330] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 154.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:06:59.598] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 155.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:07:09.849] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 156.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:07:20.095] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 157.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:07:30.330] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 158.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:07:40.592] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 159.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:07:50.834] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 160.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:08:01.075] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 161.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:08:11.332] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 162.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:08:21.581] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 163.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:08:31.848] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 164.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:08:42.097] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 165.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:08:52.335] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 166.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:09:02.583] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 167.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:09:12.838] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 168.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:09:23.089] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 169.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:09:33.337] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 170.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:09:43.580] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 171.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:09:53.846] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 172.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:10:04.099] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 173.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:10:14.343] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 174.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:10:24.597] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 175.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:10:34.842] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 176.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:10:45.097] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 177.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:10:55.339] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 178.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:11:05.586] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 179.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:11:15.845] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 180.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:11:26.089] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 181.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:11:36.348] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 182.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:11:46.585] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 183.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:11:56.842] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 184.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:12:07.088] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 185.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:12:17.350] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 186.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:12:27.593] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 187.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:12:37.831] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 188.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:12:48.081] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 189.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:12:58.332] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 190.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:13:08.598] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 191.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:13:18.854] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 192.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:13:29.077] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 193.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:13:39.332] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 194.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:13:49.608] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 195.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:13:59.848] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 196.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:14:10.088] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 197.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:14:20.349] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 198.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:14:30.588] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 199.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:14:40.836] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 200.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:14:51.090] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 201.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:15:01.352] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 202.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:15:11.588] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 203.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:15:21.835] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 204.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:15:32.080] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 205.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:15:42.363] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 206.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:15:52.603] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 207.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:16:02.847] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 208.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:16:13.079] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 209.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:16:23.360] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 210.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:16:33.598] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 211.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:16:43.832] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 212.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:16:54.086] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 213.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:17:04.337] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 214.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:17:14.585] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 215.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:17:24.853] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 216.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:17:35.085] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 217.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:17:45.337] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 218.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:17:55.591] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 219.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:18:05.849] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 220.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:18:16.092] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 221.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:18:26.348] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 222.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:18:36.597] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 223.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:18:46.846] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 224.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:18:57.086] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 225.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:19:07.342] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 226.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:19:17.595] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 227.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:19:27.833] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 228.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:19:38.082] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 229.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:19:48.347] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 230.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:19:58.610] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 231.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:20:08.849] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 232.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:20:19.087] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 233.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:20:29.347] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 234.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:20:39.609] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 235.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:20:49.845] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 236.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:21:00.090] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 237.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:21:10.329] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 238.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:21:20.583] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 239.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:21:30.851] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 240.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:21:41.083] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 241.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:21:51.326] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 242.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:22:01.590] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 243.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:22:11.853] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 244.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:22:22.090] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 245.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:22:32.349] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 246.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:22:42.599] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 247.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:22:52.848] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 248.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:23:03.092] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 249.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:23:13.349] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 250.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:23:23.583] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 251.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:23:33.838] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 252.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:23:44.096] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 253.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:23:54.341] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 254.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:24:04.584] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 255.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:24:14.853] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 256.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:24:25.112] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 257.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:24:35.347] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 258.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:24:45.591] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 259.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:24:55.835] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 260.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:25:06.088] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 261.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:25:16.353] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 262.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:25:26.585] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 263.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:25:36.832] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 264.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:25:47.109] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 265.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:25:57.347] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 266.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:26:07.595] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 267.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:26:17.848] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 268.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:26:28.088] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 269.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:26:38.351] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 270.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:26:48.599] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 271.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:26:58.849] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 272.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:27:09.090] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 273.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:27:19.334] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 274.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:27:29.589] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 275.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:27:39.846] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 276.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:27:50.109] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 277.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:28:00.338] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 278.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:28:10.598] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 279.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:28:20.852] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 280.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:28:31.087] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 281.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:28:41.335] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 282.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:28:51.590] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 283.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:29:01.845] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 284.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:29:12.105] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 285.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:29:22.353] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 286.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:29:32.580] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 287.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:29:42.837] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 288.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:29:53.099] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 289.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:30:03.358] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 290.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:30:13.600] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 291.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:30:23.857] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 292.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:30:34.087] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 293.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:30:44.329] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 294.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:30:54.614] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 295.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:31:04.829] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 296.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:31:15.101] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 297.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:31:25.343] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 298.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:31:35.587] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 299.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:31:45.840] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 300.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:31:56.101] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 301.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:32:06.342] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 302.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:32:16.602] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 303.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:32:26.844] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 304.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:32:37.087] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 305.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:32:47.339] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 306.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:32:57.587] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 307.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:33:07.845] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 308.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:33:18.101] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 309.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:33:28.350] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 310.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:33:38.598] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 311.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:33:48.853] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 312.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:33:59.079] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 313.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:34:09.345] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 314.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:34:19.585] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 315.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:34:29.835] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 316.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:34:40.104] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 317.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:34:50.357] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 318.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:35:00.615] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 319.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:35:10.837] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 320.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:35:21.096] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 321.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:35:31.351] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 322.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:35:41.588] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 323.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:35:51.834] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 324.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:36:02.096] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 325.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:36:12.345] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 326.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:36:22.604] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 327.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:36:32.848] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 328.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:36:43.091] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 329.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:36:53.360] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 330.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:37:03.609] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 331.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:37:13.846] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 332.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:37:24.103] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 333.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:37:34.332] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 334.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:37:44.603] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 335.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:37:54.828] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 336.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:38:05.093] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 337.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:38:15.337] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 338.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:38:25.613] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 339.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:38:35.853] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 340.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:38:46.105] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 341.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:38:56.349] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 342.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:39:06.592] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 343.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:39:16.838] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 344.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:39:27.087] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 345.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:39:37.355] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 346.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:39:47.601] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 347.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:39:57.858] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 348.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:40:08.076] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 349.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:40:18.333] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 350.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:40:28.591] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 351.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:40:38.849] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 352.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:40:49.095] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 353.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:40:59.372] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 354.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:41:09.607] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 355.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:41:19.848] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 356.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:41:30.106] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 357.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:41:40.334] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 358.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:41:50.583] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 359.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:42:00.854] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 360.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:42:11.088] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 361.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:42:21.358] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 362.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:42:31.592] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 363.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:42:41.848] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 364.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:42:52.095] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 365.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:43:02.345] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 366.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:43:12.622] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 367.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:43:22.849] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 368.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:43:33.020] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 369.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:43:43.120] initializing orchestrator
+Error: dial tcp 127.0.0.1:36657: connect: connection refused
+orchd.service: Main process exited, code=exited, status=1/FAILURE
+orchd.service: Failed with result 'exit-code'.
+orchd.service: Scheduled restart job, restart counter is at 370.
+Stopped QGB orchestrator service.
+Started QGB orchestrator service.
+D[2023-05-30|09:43:53.356] initializing orchestrator
+I[2023-05-30|09:43:53.387] successfully opened store                    path=/data/celest-rpc/.orchestrator
+I[2023-05-30|09:43:53.387] loading EVM account                          address=0xf0117448D5b1952b494F608ed88B0fbfcB1CebEa
+I[2023-05-30|09:43:54.202] created host                                 ID=12D3KooWFDtAfAL9i9XyXTetVKDWUNjPPrTiw69dpwUGNRfxFqwa Addresses="[/ip4/65.108.44.149/tcp/30000 /ip4/127.0.0.1/tcp/30000]"
+I[2023-05-30|09:44:04.203] found peers                                  peerscount=46
+D[2023-05-30|09:44:04.203] starting orchestrator
+I[2023-05-30|09:44:04.203] listening for new block events...
+I[2023-05-30|09:44:04.209] syncing missing nonces                       latest_nonce=1636 first_nonce=1546
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1636
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1635
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1634
+I[2023-05-30|09:44:04.209] processing nonce                             nonce=1636
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1633
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1632
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1631
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1630
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1629
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1628
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1627
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1626
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1625
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1624
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1623
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1622
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1621
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1620
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1619
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1618
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1617
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1616
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1615
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1614
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1613
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1612
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1611
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1610
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1609
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1608
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1607
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1606
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1605
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1604
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1603
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1602
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1601
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1600
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1599
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1598
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1597
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1596
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1595
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1594
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1593
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1592
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1591
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1590
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1589
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1588
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1587
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1586
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1585
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1584
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1583
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1582
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1581
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1580
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1579
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1578
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1577
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1576
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1575
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1574
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1573
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1572
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1571
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1570
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1569
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1568
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1567
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1566
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1565
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1564
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1563
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1562
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1561
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1560
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1559
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1558
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1557
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1556
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1555
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1554
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1553
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1552
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1551
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1550
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1549
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1548
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1547
+D[2023-05-30|09:44:04.209] enqueueing missing attestation nonce         nonce=1546
+I[2023-05-30|09:44:04.209] finished syncing missing nonces              latest_nonce=1636 first_nonce=1546
+E[2023-05-30|09:44:04.209] stopping enqueuing missing attestations
+E[2023-05-30|09:44:04.212] failed to process nonce, retrying            nonce=1636 err="RPC error -32603 - Internal error: last block 609200 is still not indexed"
+I[2023-05-30|09:44:04.212] trying to recover from error...
+I[2023-05-30|09:44:51.434] enqueueing new attestation nonce             nonce=1637
+I[2023-05-30|09:45:04.213] retrying                                     retry_number=0 retries_left=6
+E[2023-05-30|09:45:04.216] failed attempt                               retry=0 err="RPC error -32603 - Internal error: last block 609200 is still not indexed"
+I[2023-05-30|09:47:04.216] retrying                                     retry_number=1 retries_left=5
+E[2023-05-30|09:47:04.220] failed attempt                               retry=1 err="RPC error -32603 - Internal error: last block 609200 is still not indexed"
+I[2023-05-30|09:51:04.220] retrying                                     retry_number=2 retries_left=4
+E[2023-05-30|09:51:04.223] failed attempt                               retry=2 err="RPC error -32603 - Internal error: last block 609200 is still not indexed"
+I[2023-05-30|09:59:04.223] retrying                                     retry_number=3 retries_left=3
+E[2023-05-30|09:59:04.225] failed attempt                               retry=3 err="RPC error -32603 - Internal error: last block 609200 is still not indexed"
+I[2023-05-30|10:06:21.339] enqueueing new attestation nonce             nonce=1638
+I[2023-05-30|10:15:04.225] retrying                                     retry_number=4 retries_left=2
+E[2023-05-30|10:15:04.234] failed attempt                               retry=4 err="RPC error -32603 - Internal error: last block 609200 is still not indexed"
+I[2023-05-30|10:47:04.236] retrying                                     retry_number=5 retries_left=1
+E[2023-05-30|10:47:04.249] failed attempt                               retry=5 err="RPC error -32603 - Internal error: last block 609200 is still not indexed"
+E[2023-05-30|10:47:04.249] error processing attestations                err="RPC error -32603 - Internal error: last block 609200 is still not indexed"
+E[2023-05-30|10:47:04.249] stopping processing attestations
+E[2023-05-30|10:47:04.249] error listening to new attestations          err="signal channel sent notification to stop"
+E[2023-05-30|10:47:04.249] stopping listening to new attestations
+I[2023-05-30|10:47:04.416] successfully closed store                    path=/data/celest-rpc/.orchestrator
+2023-05-30T10:47:04.418Z	ERROR	providers	providers/providers_manager.go:154	failed to flush datastore: datastore closed
+orchd.service: Deactivated successfully.
+orchd.service: Consumed 12.076s CPU time.
+orchd.service: Scheduled restart job, restart counter is at 371.
+Stopped QGB orchestrator service.
+orchd.service: Consumed 12.076s CPU time.
+Started QGB orchestrator service.
+D[2023-05-30|10:47:14.653] initializing orchestrator
+I[2023-05-30|10:47:14.687] successfully opened store                    path=/data/celest-rpc/.orchestrator
+I[2023-05-30|10:47:14.687] loading EVM account                          address=0xf0117448D5b1952b494F608ed88B0fbfcB1CebEa
+I[2023-05-30|10:47:15.503] created host                                 ID=12D3KooWFDtAfAL9i9XyXTetVKDWUNjPPrTiw69dpwUGNRfxFqwa Addresses="[/ip4/65.108.44.149/tcp/30000 /ip4/127.0.0.1/tcp/30000]"
+I[2023-05-30|10:47:25.504] found peers                                  peerscount=15
+D[2023-05-30|10:47:25.504] starting orchestrator
+I[2023-05-30|10:47:25.504] listening for new block events...
+I[2023-05-30|10:47:25.508] syncing missing nonces                       latest_nonce=1638 first_nonce=1546
+D[2023-05-30|10:47:25.508] enqueueing missing attestation nonce         nonce=1638
+D[2023-05-30|10:47:25.508] enqueueing missing attestation nonce         nonce=1637
+D[2023-05-30|10:47:25.508] enqueueing missing attestation nonce         nonce=1636
+D[2023-05-30|10:47:25.508] enqueueing missing attestation nonce         nonce=1635
+D[2023-05-30|10:47:25.508] enqueueing missing attestation nonce         nonce=1634
+D[2023-05-30|10:47:25.508] enqueueing missing attestation nonce         nonce=1633
+D[2023-05-30|10:47:25.508] enqueueing missing attestation nonce         nonce=1632
+D[2023-05-30|10:47:25.508] enqueueing missing attestation nonce         nonce=1631
+D[2023-05-30|10:47:25.508] enqueueing missing attestation nonce         nonce=1630
+D[2023-05-30|10:47:25.508] enqueueing missing attestation nonce         nonce=1629
+D[2023-05-30|10:47:25.508] enqueueing missing attestation nonce         nonce=1628
+D[2023-05-30|10:47:25.508] enqueueing missing attestation nonce         nonce=1627
+D[2023-05-30|10:47:25.508] enqueueing missing attestation nonce         nonce=1626
+D[2023-05-30|10:47:25.508] enqueueing missing attestation nonce         nonce=1625
+D[2023-05-30|10:47:25.508] enqueueing missing attestation nonce         nonce=1624
+D[2023-05-30|10:47:25.508] enqueueing missing attestation nonce         nonce=1623
+D[2023-05-30|10:47:25.508] enqueueing missing attestation nonce         nonce=1622
+D[2023-05-30|10:47:25.508] enqueueing missing attestation nonce         nonce=1621
+D[2023-05-30|10:47:25.508] enqueueing missing attestation nonce         nonce=1620
+D[2023-05-30|10:47:25.508] enqueueing missing attestation nonce         nonce=1619
+D[2023-05-30|10:47:25.508] enqueueing missing attestation nonce         nonce=1618
+D[2023-05-30|10:47:25.508] enqueueing missing attestation nonce         nonce=1617
+D[2023-05-30|10:47:25.508] enqueueing missing attestation nonce         nonce=1616
+D[2023-05-30|10:47:25.508] enqueueing missing attestation nonce         nonce=1615
+D[2023-05-30|10:47:25.508] enqueueing missing attestation nonce         nonce=1614
+D[2023-05-30|10:47:25.508] enqueueing missing attestation nonce         nonce=1613
+D[2023-05-30|10:47:25.508] enqueueing missing attestation nonce         nonce=1612
+D[2023-05-30|10:47:25.508] enqueueing missing attestation nonce         nonce=1611
+D[2023-05-30|10:47:25.508] enqueueing missing attestation nonce         nonce=1610
+D[2023-05-30|10:47:25.508] enqueueing missing attestation nonce         nonce=1609
+D[2023-05-30|10:47:25.508] enqueueing missing attestation nonce         nonce=1608
+I[2023-05-30|10:47:25.508] processing nonce                             nonce=1638
+D[2023-05-30|10:47:25.508] enqueueing missing attestation nonce         nonce=1607
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1606
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1605
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1604
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1603
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1602
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1601
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1600
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1599
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1598
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1597
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1596
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1595
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1594
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1593
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1592
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1591
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1590
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1589
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1588
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1587
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1586
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1585
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1584
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1583
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1582
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1581
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1580
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1579
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1578
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1577
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1576
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1575
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1574
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1573
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1572
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1571
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1570
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1569
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1568
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1567
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1566
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1565
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1564
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1563
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1562
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1561
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1560
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1559
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1558
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1557
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1556
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1555
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1554
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1553
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1552
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1551
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1550
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1549
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1548
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1547
+D[2023-05-30|10:47:25.509] enqueueing missing attestation nonce         nonce=1546
+I[2023-05-30|10:47:25.509] finished syncing missing nonces              latest_nonce=1638 first_nonce=1546
+E[2023-05-30|10:47:25.509] stopping enqueuing missing attestations
+I[2023-05-30|10:47:31.543] signed commitment                            nonce=1638 begin_block=609601 end_block=610000 data_root_tuple_root=0x9e91354f978fa098bb4779053dcbede92d26aed90edc69224d0b176b76848cc3
+I[2023-05-30|10:47:31.543] processing nonce                             nonce=1637
+I[2023-05-30|10:47:40.954] signed commitment                            nonce=1637 begin_block=609201 end_block=609600 data_root_tuple_root=0xba12b577b3efd623e92dbc78b505bb1c962ec257fe043beba4e3d99ff4a0a30c
+I[2023-05-30|10:47:40.955] processing nonce                             nonce=1636
+E[2023-05-30|10:47:40.956] failed to process nonce, retrying            nonce=1636 err="RPC error -32603 - Internal error: last block 609200 is still not indexed"
+I[2023-05-30|10:47:40.956] trying to recover from error...
+I[2023-05-30|10:48:40.956] retrying                                     retry_number=0 retries_left=6
+E[2023-05-30|10:48:40.958] failed attempt                               retry=0 err="RPC error -32603 - Internal error: last block 609200 is still not indexed"
+I[2023-05-30|10:50:40.959] retrying                                     retry_number=1 retries_left=5
+E[2023-05-30|10:50:40.964] failed attempt                               retry=1 err="RPC error -32603 - Internal error: last block 609200 is still not indexed"
+I[2023-05-30|10:54:40.964] retrying                                     retry_number=2 retries_left=4
+E[2023-05-30|10:54:40.966] failed attempt                               retry=2 err="RPC error -32603 - Internal error: last block 609200 is still not indexed"
+I[2023-05-30|11:00:11.513] caught signal; shutting down...              signal=terminated
+E[2023-05-30|11:00:11.513] error processing attestations                err="context canceled"
+E[2023-05-30|11:00:11.513] stopping processing attestations
+E[2023-05-30|11:00:11.513] error listening to new attestations          err="context canceled"
+E[2023-05-30|11:00:11.513] stopping listening to new attestations
+Stopping QGB orchestrator service...
+I[2023-05-30|11:00:11.645] successfully closed store                    path=/data/celest-rpc/.orchestrator
+orchd.service: Deactivated successfully.
+Stopped QGB orchestrator service.
+orchd.service: Consumed 3.343s CPU time.
+Started QGB orchestrator service.
+D[2023-05-30|11:00:11.720] initializing orchestrator
+I[2023-05-30|11:00:11.738] successfully opened store                    path=/data/celest-rpc/.orchestrator
+I[2023-05-30|11:00:11.738] loading EVM account                          address=0xf0117448D5b1952b494F608ed88B0fbfcB1CebEa
+I[2023-05-30|11:00:12.298] created host                                 ID=12D3KooWFDtAfAL9i9XyXTetVKDWUNjPPrTiw69dpwUGNRfxFqwa Addresses="[/ip4/65.108.44.149/tcp/30000 /ip4/127.0.0.1/tcp/30000]"
+I[2023-05-30|11:00:22.298] found peers                                  peerscount=15
+D[2023-05-30|11:00:22.298] starting orchestrator
+I[2023-05-30|11:00:22.298] listening for new block events...
+I[2023-05-30|11:00:22.302] syncing missing nonces                       latest_nonce=1638 first_nonce=1546
+D[2023-05-30|11:00:22.302] enqueueing missing attestation nonce         nonce=1638
+D[2023-05-30|11:00:22.302] enqueueing missing attestation nonce         nonce=1637
+D[2023-05-30|11:00:22.302] enqueueing missing attestation nonce         nonce=1636
+D[2023-05-30|11:00:22.302] enqueueing missing attestation nonce         nonce=1635
+I[2023-05-30|11:00:22.302] processing nonce                             nonce=1638
+D[2023-05-30|11:00:22.302] enqueueing missing attestation nonce         nonce=1634
+D[2023-05-30|11:00:22.302] enqueueing missing attestation nonce         nonce=1633
+D[2023-05-30|11:00:22.302] enqueueing missing attestation nonce         nonce=1632
+D[2023-05-30|11:00:22.302] enqueueing missing attestation nonce         nonce=1631
+D[2023-05-30|11:00:22.302] enqueueing missing attestation nonce         nonce=1630
+D[2023-05-30|11:00:22.302] enqueueing missing attestation nonce         nonce=1629
+D[2023-05-30|11:00:22.302] enqueueing missing attestation nonce         nonce=1628
